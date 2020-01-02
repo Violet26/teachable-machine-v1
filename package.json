@@ -55,6 +55,6 @@
   "devDependencies": {
     "eslint": "^4.3.0",
     "pre-commit": "^1.2.2",
-    "stylint": "^1.5.9"
+    "stylint": "^2.0.0"
   }
 }
